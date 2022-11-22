@@ -1,6 +1,6 @@
 //CLI
 
-const amount = 9
+const amount = 11
 
 if (amount < 10) {
   console.log('small number')
